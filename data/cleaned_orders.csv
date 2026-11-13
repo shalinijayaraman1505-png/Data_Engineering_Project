@@ -1,0 +1,151 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country,TotalAmount
+1001,Meena Raj,Keyboard,Electronics,1.0,999.0,2025-05-21,Yes,Singapore,999.0
+1002,Sneha Iyer,Keyboard,Electronics,5.0,999.0,2025-02-14,No,India,4995.0
+1003,Meena Raj,Wireless Mouse,Electronics,1.0,599.0,2025-04-22,Pending,United Kingdom,599.0
+1004,Nisha Das,Wireless Mouse,Electronics,5.0,599.0,2025-04-12,Pending,United Kingdom,2995.0
+1005,Sneha Iyer,Pen Set,Stationery,2.0,120.0,2025-08-18,No,India,240.0
+1006,Unknown,Notebook,Stationery,4.0,80.0,2025-06-24,Yes,Singapore,320.0
+1007,Sanjay Rao,Headphones,Electronics,1.0,1499.0,2025-02-17,Yes,Malaysia,1499.0
+1008,Arun Kumar,Headphones,Electronics,5.0,1499.0,2025-05-16,Pending,UAE,7495.0
+1009,Priya Sharma,Coffee Mug,Home,1.0,199.0,2025-07-13,Pending,Malaysia,199.0
+1010,Meena Raj,USB Cable,Electronics,3.0,299.0,2025-10-23,Pending,India,897.0
+1011,Priya Sharma,Wireless Mouse,Electronics,2.0,599.0,2025-05-29,Yes,India,1198.0
+1012,Ravi Kumar,Pen Set,Stationery,3.0,120.0,2025-08-21,No,Singapore,360.0
+1013,Ravi Kumar,Headphones,Electronics,3.0,1499.0,2025-04-18,No,India,4497.0
+1014,Nisha Das,USB Cable,Electronics,2.0,299.0,2025-10-01,Yes,Singapore,598.0
+1015,Ravi Kumar,Desk Lamp,Home,4.0,899.0,2025-05-19,Pending,United Kingdom,3596.0
+1016,Meena Raj,Water Bottle,Accessories,3.0,250.0,2025-01-29,Yes,Malaysia,750.0
+1017,Meena Raj,Pen Set,Stationery,3.0,120.0,2025-02-03,Pending,Malaysia,360.0
+1018,Ravi Kumar,Water Bottle,Accessories,4.0,250.0,2025-07-22,No,Singapore,1000.0
+1019,Nisha Das,Backpack,Accessories,2.0,1299.0,2025-05-07,Pending,United Kingdom,2598.0
+1020,Sneha Iyer,Backpack,Accessories,5.0,1299.0,2025-08-08,No,Malaysia,6495.0
+1021,Anitha M,Water Bottle,Accessories,2.0,250.0,2025-09-18,Yes,India,500.0
+1022,Ravi Kumar,Keyboard,Electronics,2.0,999.0,2025-03-23,No,United Kingdom,1998.0
+1023,Sneha Iyer,Keyboard,Electronics,4.0,999.0,2025-07-15,No,United Kingdom,3996.0
+1024,Ravi Kumar,Backpack,Accessories,5.0,1299.0,2025-01-06,Pending,India,6495.0
+1025,Priya Sharma,Coffee Mug,Home,3.0,199.0,2025-06-24,No,UAE,597.0
+1026,Nisha Das,Notebook,Stationery,4.0,80.0,2025-01-02,Pending,Malaysia,320.0
+1027,Priya Sharma,Coffee Mug,Home,2.0,199.0,2025-09-17,Pending,Malaysia,398.0
+1028,Rahul Das,Coffee Mug,Home,5.0,199.0,2025-04-12,No,Singapore,995.0
+1029,Sneha Iyer,Coffee Mug,Home,5.0,199.0,2025-01-01,No,UAE,995.0
+1030,Karthik S,Wireless Mouse,Electronics,1.0,599.0,2025-07-05,Yes,India,599.0
+1031,Priya Sharma,Water Bottle,Accessories,5.0,250.0,2025-02-10,Pending,UAE,1250.0
+1032,Rahul Das,Keyboard,Electronics,5.0,999.0,2025-03-06,Pending,UAE,4995.0
+1033,Vikram Patel,Coffee Mug,Home,2.0,199.0,2025-05-16,Pending,UAE,398.0
+1034,Nisha Das,Water Bottle,Accessories,5.0,250.0,2025-04-13,No,UAE,1250.0
+1035,Anitha M,Headphones,Electronics,4.0,299.0,2025-09-22,Yes,Singapore,1196.0
+1036,Arun Kumar,Water Bottle,Accessories,1.0,250.0,2025-06-23,Pending,United Kingdom,250.0
+1037,Arun Kumar,Water Bottle,Accessories,5.0,250.0,2025-04-23,Yes,India,1250.0
+1038,Divya Nair,Water Bottle,Accessories,1.0,250.0,2025-01-17,Yes,United Kingdom,250.0
+1039,Meena Raj,Water Bottle,Accessories,3.0,250.0,2025-09-06,Pending,Singapore,750.0
+1040,Meena Raj,USB Cable,Electronics,5.0,299.0,2025-08-31,No,UAE,1495.0
+1041,Ravi Kumar,Water Bottle,Accessories,1.0,250.0,2025-02-19,No,Malaysia,250.0
+1042,Nisha Das,Pen Set,Stationery,4.0,120.0,2025-08-28,Yes,India,480.0
+1043,Priya Sharma,Wireless Mouse,Electronics,4.0,599.0,2025-06-23,Yes,Singapore,2396.0
+1044,Rahul Das,Water Bottle,Accessories,5.0,250.0,2025-08-18,No,Singapore,1250.0
+1045,Priya Sharma,Backpack,Accessories,4.0,1299.0,2025-05-08,No,United Kingdom,5196.0
+1046,Arun Kumar,Keyboard,Electronics,1.0,999.0,2025-10-04,Yes,Singapore,999.0
+1047,Anitha M,Notebook,Stationery,4.0,80.0,2025-09-06,Yes,UAE,320.0
+1048,Arun Kumar,Wireless Mouse,Electronics,2.0,599.0,2025-07-14,No,Malaysia,1198.0
+1049,Nisha Das,Desk Lamp,Home,3.0,899.0,2025-08-05,Pending,United Kingdom,2697.0
+1050,Karthik S,Desk Lamp,Home,2.0,899.0,2025-04-08,Yes,India,1798.0
+1051,Nisha Das,USB Cable,Electronics,5.0,299.0,2025-02-01,No,India,1495.0
+1052,Vikram Patel,Wireless Mouse,Electronics,5.0,599.0,2025-09-02,Pending,Singapore,2995.0
+1053,Rahul Das,Wireless Mouse,Electronics,5.0,599.0,2025-02-11,Yes,United Kingdom,2995.0
+1054,Priya Sharma,Keyboard,Electronics,2.0,999.0,2025-07-26,Pending,Singapore,1998.0
+1055,Sneha Iyer,USB Cable,Electronics,5.0,299.0,2025-01-21,Yes,UAE,1495.0
+1056,Divya Nair,USB Cable,Electronics,5.0,299.0,2025-09-25,No,Singapore,1495.0
+1057,Sanjay Rao,Headphones,Electronics,2.0,1499.0,2025-05-16,Yes,Malaysia,2998.0
+1058,Arun Kumar,Desk Lamp,Home,3.0,899.0,2025-02-07,No,Unknown,2697.0
+1059,Vikram Patel,USB Cable,Electronics,1.0,299.0,2025-02-07,Yes,United Kingdom,299.0
+1060,Priya Sharma,Backpack,Accessories,2.0,1299.0,2025-06-28,Yes,Malaysia,2598.0
+1061,Vikram Patel,Backpack,Accessories,2.0,1299.0,2025-08-13,Pending,Malaysia,2598.0
+1062,Ravi Kumar,USB Cable,Electronics,5.0,299.0,2025-01-05,Pending,Malaysia,1495.0
+1063,Priya Sharma,Keyboard,Electronics,2.0,999.0,2025-05-16,Yes,United Kingdom,1998.0
+1064,Sneha Iyer,Notebook,Stationery,3.0,80.0,2025-05-25,Yes,Malaysia,240.0
+1065,Anitha M,Water Bottle,Accessories,3.0,250.0,2025-09-16,No,India,750.0
+1066,Arun Kumar,Keyboard,Electronics,4.0,999.0,2025-05-22,Yes,Malaysia,3996.0
+1067,Nisha Das,Notebook,Stationery,3.0,80.0,2025-03-24,No,United Kingdom,240.0
+1068,Priya Sharma,Pen Set,Stationery,5.0,120.0,2025-01-05,Yes,Singapore,600.0
+1069,Sneha Iyer,Coffee Mug,Home,1.0,199.0,2025-07-09,Pending,Singapore,199.0
+1070,Karthik S,Pen Set,Stationery,2.0,120.0,2025-01-22,No,India,240.0
+1071,Ravi Kumar,Headphones,Electronics,2.0,1499.0,2025-05-08,Yes,Malaysia,2998.0
+1072,Meena Raj,Coffee Mug,Home,4.0,199.0,2025-03-21,Yes,Singapore,796.0
+1073,Nisha Das,Pen Set,Stationery,1.0,120.0,2025-04-02,No,UAE,120.0
+1074,Nisha Das,Water Bottle,Accessories,3.0,250.0,2025-03-23,Yes,UAE,750.0
+1075,Meena Raj,Wireless Mouse,Electronics,4.0,599.0,2025-04-24,No,Malaysia,2396.0
+1076,Arun Kumar,Backpack,Accessories,2.0,1299.0,2025-04-25,Pending,Singapore,2598.0
+1077,Priya Sharma,Pen Set,Stationery,3.0,120.0,2025-05-23,No,Malaysia,360.0
+1078,Divya Nair,Coffee Mug,Home,4.0,199.0,2025-10-02,Yes,India,796.0
+1079,Karthik S,Backpack,Accessories,2.0,1299.0,2025-10-25,Yes,India,2598.0
+1080,Nisha Das,USB Cable,Electronics,4.0,299.0,2025-06-26,No,UAE,1196.0
+1081,Sanjay Rao,USB Cable,Electronics,5.0,299.0,2025-03-01,Pending,Singapore,1495.0
+1082,Arun Kumar,Backpack,Accessories,3.0,1299.0,2025-08-12,Pending,United Kingdom,3897.0
+1083,Priya Sharma,Water Bottle,Accessories,3.0,250.0,2025-08-09,Pending,Malaysia,750.0
+1084,Nisha Das,USB Cable,Electronics,3.0,299.0,2025-03-05,No,United Kingdom,897.0
+1085,Sanjay Rao,Backpack,Accessories,4.0,1299.0,2025-06-17,Pending,Malaysia,5196.0
+1086,Sanjay Rao,Coffee Mug,Home,2.0,199.0,2025-04-09,Pending,UAE,398.0
+1087,Karthik S,Notebook,Stationery,5.0,80.0,2025-10-19,No,United Kingdom,400.0
+1088,Meena Raj,Wireless Mouse,Electronics,3.0,599.0,2025-05-27,No,United Kingdom,1797.0
+1089,Anitha M,USB Cable,Electronics,3.0,299.0,2025-08-27,No,Singapore,897.0
+1090,Ravi Kumar,Coffee Mug,Home,4.0,199.0,2025-03-28,Yes,Malaysia,796.0
+1091,Priya Sharma,Coffee Mug,Home,5.0,199.0,2025-06-21,Yes,Malaysia,995.0
+1092,Arun Kumar,Water Bottle,Accessories,2.0,250.0,2025-03-17,Yes,Singapore,500.0
+1093,Anitha M,Desk Lamp,Home,5.0,899.0,2025-02-07,No,United Kingdom,4495.0
+1094,Sanjay Rao,Water Bottle,Accessories,4.0,250.0,2025-09-11,Yes,Singapore,1000.0
+1095,Meena Raj,Wireless Mouse,Electronics,1.0,599.0,2025-08-06,Yes,United Kingdom,599.0
+1096,Meena Raj,Desk Lamp,Home,1.0,899.0,2025-10-13,Yes,UAE,899.0
+1097,Vikram Patel,Notebook,Stationery,4.0,80.0,2025-09-29,Pending,Malaysia,320.0
+1098,Sanjay Rao,Desk Lamp,Home,5.0,899.0,2025-09-16,Pending,UAE,4495.0
+1099,Karthik S,Notebook,Stationery,4.0,80.0,2025-08-19,Yes,Malaysia,320.0
+1100,Karthik S,Coffee Mug,Home,4.0,199.0,2025-05-03,No,India,796.0
+1101,Divya Nair,Backpack,Accessories,2.0,1299.0,2025-05-20,No,United Kingdom,2598.0
+1102,Meena Raj,Keyboard,Electronics,2.0,999.0,2025-03-19,No,Singapore,1998.0
+1103,Sanjay Rao,Water Bottle,Accessories,1.0,250.0,2025-08-01,No,United Kingdom,250.0
+1104,Meena Raj,Desk Lamp,Unknown,4.0,899.0,2025-02-01,No,UAE,3596.0
+1105,Sanjay Rao,USB Cable,Electronics,1.0,299.0,2025-10-22,No,India,299.0
+1106,Sanjay Rao,Headphones,Electronics,3.0,1499.0,2025-07-19,Pending,United Kingdom,4497.0
+1107,Meena Raj,USB Cable,Electronics,2.0,299.0,2025-09-07,No,UAE,598.0
+1108,Divya Nair,Desk Lamp,Home,1.0,899.0,2025-07-19,Pending,UAE,899.0
+1109,Sneha Iyer,Notebook,Stationery,4.0,80.0,2025-03-07,Pending,India,320.0
+1110,Ravi Kumar,Pen Set,Stationery,5.0,120.0,2025-10-16,Yes,India,600.0
+1111,Rahul Das,Pen Set,Stationery,2.0,120.0,2025-08-25,Yes,Malaysia,240.0
+1112,Anitha M,Pen Set,Stationery,3.0,120.0,2025-04-19,No,Malaysia,360.0
+1113,Karthik S,Pen Set,Stationery,3.0,120.0,2025-08-04,Yes,UAE,360.0
+1114,Divya Nair,Wireless Mouse,Electronics,5.0,599.0,2025-01-27,Yes,India,2995.0
+1115,Meena Raj,Wireless Mouse,Electronics,1.0,599.0,2025-05-07,Yes,United Kingdom,599.0
+1116,Anitha M,Notebook,Stationery,2.0,80.0,2025-03-06,Pending,India,160.0
+1117,Nisha Das,USB Cable,Electronics,2.0,299.0,2025-08-27,No,Malaysia,598.0
+1118,Rahul Das,Notebook,Stationery,5.0,80.0,2025-02-28,No,India,400.0
+1119,Sneha Iyer,USB Cable,Electronics,1.0,299.0,2025-06-09,Pending,UAE,299.0
+1120,Sneha Iyer,Pen Set,Stationery,2.0,120.0,2025-02-08,Pending,Singapore,240.0
+1121,Sneha Iyer,Keyboard,Electronics,3.0,999.0,2025-03-03,Yes,Malaysia,2997.0
+1122,Priya Sharma,Coffee Mug,Home,4.0,199.0,2025-07-09,Pending,Malaysia,796.0
+1123,Priya Sharma,Wireless Mouse,Electronics,4.0,599.0,2025-09-08,No,Malaysia,2396.0
+1124,Rahul Das,Desk Lamp,Home,2.0,899.0,2025-08-11,Pending,United Kingdom,1798.0
+1125,Anitha M,Backpack,Accessories,5.0,1299.0,2025-10-03,No,UAE,6495.0
+1126,Meena Raj,USB Cable,Electronics,3.0,299.0,2025-06-15,Yes,Malaysia,897.0
+1127,Sneha Iyer,Desk Lamp,Home,2.0,899.0,2025-08-26,Pending,UAE,1798.0
+1128,Divya Nair,Headphones,Electronics,1.0,1499.0,2025-09-11,Yes,UAE,1499.0
+1129,Divya Nair,Water Bottle,Accessories,3.0,250.0,2025-05-13,No,United Kingdom,750.0
+1130,Vikram Patel,Backpack,Accessories,5.0,1299.0,2025-01-06,Yes,India,6495.0
+1131,Vikram Patel,Water Bottle,Accessories,4.0,250.0,2025-09-08,Yes,UAE,1000.0
+1132,Priya Sharma,Desk Lamp,Home,4.0,899.0,2025-01-09,No,Singapore,3596.0
+1133,Ravi Kumar,Pen Set,Stationery,2.0,120.0,2025-06-06,Pending,Malaysia,240.0
+1134,Divya Nair,Desk Lamp,Home,5.0,899.0,2025-09-29,No,United Kingdom,4495.0
+1135,Karthik S,Headphones,Electronics,3.0,1499.0,2025-08-21,No,Malaysia,4497.0
+1136,Divya Nair,Water Bottle,Accessories,1.0,250.0,2025-04-09,Yes,United Kingdom,250.0
+1137,Nisha Das,Notebook,Stationery,2.0,80.0,2025-04-21,No,Malaysia,160.0
+1138,Priya Sharma,USB Cable,Electronics,5.0,299.0,2025-05-25,Yes,Malaysia,1495.0
+1139,Karthik S,Water Bottle,Accessories,3.0,250.0,2025-04-02,Yes,United Kingdom,750.0
+1140,Arun Kumar,Notebook,Stationery,3.0,80.0,2025-01-24,Pending,Malaysia,240.0
+1141,Arun Kumar,Notebook,Stationery,4.0,80.0,2025-02-22,Pending,Malaysia,320.0
+1142,Divya Nair,Desk Lamp,Home,4.0,899.0,2025-08-14,Yes,India,3596.0
+1143,Priya Sharma,Backpack,Accessories,4.0,1299.0,2025-02-28,No,UAE,5196.0
+1144,Rahul Das,Keyboard,Electronics,5.0,999.0,2025-01-28,Yes,United Kingdom,4995.0
+1145,Priya Sharma,Backpack,Accessories,1.0,1299.0,2025-05-08,Pending,UAE,1299.0
+1146,Vikram Patel,USB Cable,Electronics,5.0,299.0,2025-04-26,No,UAE,1495.0
+1147,Karthik S,Desk Lamp,Home,3.0,899.0,2025-08-08,Pending,United Kingdom,2697.0
+1148,Meena Raj,Wireless Mouse,Electronics,5.0,599.0,2025-02-20,Pending,Singapore,2995.0
+1149,Meena Raj,Backpack,Accessories,1.0,1299.0,2025-03-22,Yes,United Kingdom,1299.0
+1150,Sanjay Rao,Keyboard,Electronics,2.0,999.0,2025-01-02,No,United Kingdom,1998.0
